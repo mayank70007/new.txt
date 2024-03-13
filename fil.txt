@@ -1,7 +1,5 @@
 hello
-<<<<<<< HEAD
 world
-=======
 changed
 okay 
->>>>>>> 6a835a8807a40cf0afbb4e80767be584487c6ba3
+mayank
